@@ -2,7 +2,7 @@
 
 Fourier transforms and frequency-domain image filtering in NumPy and OpenCV.
 
-**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year:** Year 2
+**Portfolio:** [Carl Renz Colico](https://github.com/renzkie8) · **Year / Section:** Year 2 — BSCS 2-A
 
 ## Methodology
 
