@@ -6,3 +6,5 @@
 - `README.md`
 - `VALIDATION.md`
 - `meowo.jpg`
+- `results/README.md`
+- `results/figure-01.png`
